@@ -1,0 +1,71 @@
+.footer-layout{
+    background-image: url('../../assets/images/filter.jpg');
+    .container{
+        margin-top: 10px;
+        border-top:1px solid rgb(133, 128, 128);
+        .row{
+            display: flex;
+            flex-wrap: wrap;
+            margin-right: -15px;
+            margin-left: -15px;
+            .strong{
+                margin-right: 10px !important;
+            }
+            .box-right{
+                margin-left: 200px !important;
+                .img-footer{
+                    width: 400px !important;
+                    margin-bottom: 26px !important;
+                }
+            }
+            .box-left{
+                border-radius: 15px;
+                background-color: rgb(194, 240, 240);
+                margin-top: 20px !important;
+                margin-left: 200px !important;
+                height: 235px !important;
+                width: 300px !important;
+                
+            .contact-list{
+                .phone_number{
+                    align-items: center;
+                    margin: 20px 0;
+                    display: flex;
+                    font-family: Quicksand, sans-serif;
+                    font-weight: 700;
+                    font-size: 22px;
+                    line-height: 1;
+                    color: #000000 !important;
+                    text-decoration: none;
+                }
+            }
+            h6.footer-widget{
+                font-weight: 900;
+                padding: 20px;
+                font-size: 22px;
+                font-family: monospace !important;
+
+            }
+                ul{
+                    padding-left: 0;
+                    list-style: none !important;
+                    li{
+                        line-height: 26px;
+                        margin-bottom: 0;
+                        margin: 20px !important;
+                        font-weight: 100;
+                        p{
+                            font-weight: 150;
+                            span.btn{
+                                margin-top: -20px;
+                                text-decoration: none !important;
+                            }
+                        }
+                    }
+                }
+               
+            }
+        }
+       
+    }
+}

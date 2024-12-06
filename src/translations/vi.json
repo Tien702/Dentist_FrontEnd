@@ -1,0 +1,120 @@
+{
+    "home-header":{
+        "specialty":"Chuyên khoa",
+        "searchdoctor":"Tìm bác sĩ theo chuyên khoa",
+        "clinic":"Phòng Khám",
+        "chooseClinic": "Chọn Bệnh Viện Phòng Khám",
+        "doctor": "Bác Sĩ",
+        "chooseDoctor" : "Chọn Bác Sĩ Giỏi",
+        "examination":"Gói Khám",
+        "checkHealth":"Gói khám Sức Khỏe Tổng Quát",
+        "support":"Hỗ Trợ",
+        "medical":"NỀN TẢNG Y TẾ",
+        "health":"CHĂM SÓC SỨC KHỎE TOÀN DIỆN",
+        "specialtyClinic": "Khám Chuyên Khoa",
+        "remote": "Khám Từ Xa",
+        "general": "Khám Tổng Quát",
+        "medicalTests": "Xét Nghiệm Y Học",
+        "mentalHealth": "Sức Khỏe Tinh Thần",
+        "dental": "Khám Nha Khoa",
+        "welcome": "Xin Chào",
+        "count":"Bảng Giá",
+        "aboutme":"Về Chúng Tôi"
+    },
+    "menu": {
+        "admin":{
+            "manage-user":"Người Dùng",
+            "manage-doctor":"Quản Lý Bác Sĩ",
+            "manage-admin":"Quản Lý Quản Trị Viên",
+            "crud":"CRUD user",
+            "crud-redux":"CRUD Redux",
+            "clinic":"Phòng Khám",
+            "manage-clinic":"Quản Lý Phòng Khám",
+            "specialty":"Chuyên Khoa",
+            "manage-specialty":"Quản Lý Chuyên Khoa",
+            "handbook":"Cẩm Nang",
+            "manage-handbook": "Quản Lý Cẩm Nang"
+            
+        },
+        "doctor":{
+            "manage-schedule": "Quản Lý KH Khám Bệnh",
+            "manage-patient": "Quản Lý DS Bệnh Nhân"
+        }
+    },
+    "manage-users":{
+        "add":"Thêm mới người dùng",
+        "email":"E-mail: ",
+        "password":"Mật Khẩu: ",
+        "firstname":"Tên: ",
+        "lastname":"Họ:",
+        "phonenumber":"Số Điện Thoại:",
+        "address":"Địa Chỉ:",
+        "gender":"Giới Tính:",
+        "position":"Chức Danh:",
+        "roleid":"Vai Trò:",
+        "save":"Lưu Người Dùng",
+        "choose":"Chọn:",
+        "image":"Ảnh Đại Diện",
+        "edit": "Lưu Thay Đổi"
+    },
+    "homepage":{
+        "outstanding-doctor": "Nha Sĩ - Chuyên Gia",
+        "more-info":"Xem Thêm ",
+        "handbook" : "Cẩm Nang",
+        "specialty":"Chuyên Khoa",
+        "about":"Thông Tin Về Chúng Tôi",
+        "clinic":"Danh Sách Phòng Khám"
+    },
+    "manage-schedule":{
+        "title":"Quản Lý Kế Hoạch Khám Bệnh Của Bác Sĩ",
+        "choose-doctor":"Chọn Bác Sĩ",
+        "choose-date":"Chọn Ngày",
+        "save":"Lưu Thông Tin"
+    },
+    "patient":{
+        "detail-doctor":{
+            "schedule": "Lịch Khám",
+            "no-schedule": "Bác Sĩ Không Có Lịch Hẹn Trong Thời Gian Này, Vui Lòng Chọn Khoảng Thời Gian Khác!!!",
+            "choose": "Chọn",
+            "book-free":" và đặt(miễn phí)"
+        },
+        "extra-info": {
+            "text-address": "Địa chỉ khám",
+            "price": "Giá Khám: ",
+            "detail": "Xem chi tiết",
+            "payment": " Bệnh nhân có thể thanh toán chi phí bằng các hình thức: ",
+            "hide-price": "Ẩn bảng giá."
+        },
+        "booking-modal":{
+            "title": "Thông tin đặt lịch khám",
+            "fullName": "Họ và tên",
+            "phoneNumber": "Số điện thoại",
+            "email": "Địa chỉ email",
+            "address": "Địa Chỉ liên lạc",
+            "reason": "Lí do khám",
+            "birthday": "Ngày sinh",
+            "gender": "Giới tính",
+            "btnConfirm": "Xác Nhận",
+            "btnCancel": "Hủy",
+            "priceBooking": "Miễn phí đặt lịch",
+            "price":"Giá Khám: "
+        }
+    },
+    "admin":{
+        "manage-doctor": {
+            "title":"Tạo thông tin Bác Sĩ",
+            "select-doctor":"Chọn bác sĩ",
+            "intro": "Thông tin giới thiệu",
+            "add": "Tạo thông tin",
+            "save": "Lưu Thông Tin",
+            "price": "Giá",
+            "payment": "Phương thức thanh toán",
+            "province":"Tỉnh",
+            "nameClinic":"Tên Phòng Khám: ",
+            "addressClinic": "Địa chỉ phòng khám: ",
+            "note": "Chú thích",
+            "specialty": "Chuyên Khoa",
+            "select-clinic": "Chọn Cơ sở y tế"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+.chooseme-layout{
+     background-image: url('../../../assets/images/filter.jpg');
+    //  margin-top: 10px;
+    .container{
+        .row{
+            .heading{
+                .heading_title{
+                    font-size: 37px;
+                    margin-bottom: 20px;
+                    margin-top: 30px;
+                    font-weight: 700 !important;
+                    font-family: monospace;
+                    
+                }
+                p{
+                    font-weight: 200 !important;
+                    color: rgb(143, 139, 135) !important;
+                    font-size: 14px !important;
+                }
+             }
+            }
+
+            .feature-item{
+                position: relative;
+                    border-radius: 13px;
+                    margin-bottom: 30px;
+                    background-color: #fff;
+                    -webkit-box-shadow: 0 5px 83px 0 rgba(9, 29, 62, .08);
+                    box-shadow: 0 5px 83px 0 rgba(9, 29, 62, .08);
+                    -webkit-transition: all .3s linear;
+                    transition: all .3s linear;
+                    height: 190px;
+                .feature-content{
+                    overflow: hidden;
+                    position: relative;
+                    padding: 37px 40px 35px;
+                    
+                    .feature-icon{
+                        font-size: 50px;
+                        line-height: 1;
+                        color: #21cdc0;
+                        margin-bottom: 20px;
+                        overflow: hidden;
+                    }
+                    .feature-title{
+                        font-size: 18px;
+                        transition-duration: 500ms;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        display: contents;
+                        line-height: 24px;
+                        height: 48px;
+                        font-weight: 700;
+                        color: #0e204d;
+                    }
+                }
+            }
+        }
+
+    
+    
+}

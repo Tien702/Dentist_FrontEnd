@@ -1,0 +1,36 @@
+.count-container{
+    background: url('../../../assets/images/filter.jpg');
+    margin-top: -15px;
+    height: 600px;
+    .title{
+        color: #000000;
+        margin-bottom: 35px;
+        font-family: monospace !important;
+        font-size: 35px;
+    }
+    #customers {
+        // font-family: monospace !important;
+        font-size: 16px;
+        border-collapse: collapse;
+        width: 80%;
+        margin: auto;
+        cursor: pointer;
+        margin-bottom: 30px;
+    }
+    #customers td, #customers th {
+        border: 1px solid #ddd;
+        padding: 8px;
+        cursor: pointer;
+      }
+    #customers td {
+      font-weight: 700;
+    }
+    #customers th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        color: #333;
+    }
+    
+}
+

@@ -1,0 +1,117 @@
+{
+    "home-header":{
+        "specialty":"Medical Specialty",
+        "searchdoctor":"Find a doctor by Medical Specialty",
+        "clinic":"Clinic",
+        "chooseClinic": "Choose Hospital Clinic",
+        "doctor": "Doctor",
+        "chooseDoctor" : "Choose a Good Doctor",
+        "examination":"Examination Package",
+        "checkHealth":"General Health Check Package",
+        "support":"Support",
+        "medical":"MEDICAL COMMUNICATION",
+        "health":"COMPREHENSIVE HEALTH CARE",
+        "specialtyClinic": "Specialty Clinic",
+        "remote": "Remote Examination",
+        "general": "General Examination",
+        "medicalTests": "Medical Tests",
+        "mentalHealth": "Mental Health",
+        "dental": "Dental Examination",
+        "welcome": "Welcome"
+
+    },
+    "menu": {
+        "admin":{
+            "manage-user":"Users System",
+            "manage-doctor":"Manage DocTor",
+            "manage-admin":"Manage Admin",
+            "crud":"CRUD user",
+            "crud-redux":"CRUD Redux",
+            "clinic":"Clinics",
+            "manage-clinic":"Manage Clinics",
+            "specialty":"Specialties",
+            "manage-specialty":"Manage Specialties",
+            "handbook":"Handbook",
+            "manage-handbook": "Manage Handbook" 
+        },
+        "doctor":{
+            "manage-schedule": "Manage Doctor's Schedule",
+            "manage-patient": "Manage List Patient "
+        }
+    },
+    "manage-users":{
+        "add":"Add a New User",
+        "email":"E-mail: ",
+        "password":"Password: ",
+        "firstname":"First Name: ",
+        "lastname":"Last Name:",
+        "phonenumber":"Phone Number:",
+        "address":"Address:",
+        "gender":"Gender:",
+        "position":"Position:",
+        "roleid":"Role:",
+        "save":"Save User",
+        "image":"Avatar",
+        "edit":"Edit User"
+    },
+    "homepage":{
+        "outstanding-doctor": "Last Week's Featured Doctor",
+        "more-info":"More Information",
+        "handbook" : "Handbook",
+        "specialty":"Specialty",
+        "about":"Information about us",
+        "clinic":"List Clinic"
+    },
+    "manage-schedule":{
+        "title":"Manage Doctor's Examination Plan",
+        "choose-doctor":"Choose DocTor",
+        "choose-date":"Choose Date",
+        "save":"Save"
+    },
+    "patient":{
+        "detail-doctor":{
+            "schedule": "Schedule",
+            "no-schedule": "The Doctor Has No Appointments During This Time, Please Choose Another Time!!!",
+            "choose": "Choose",
+            "book-free":" and book(free)"
+        },
+        "extra-info": {
+            "text-address": "Address of Examination",
+            "price": "Examination Price",
+            "detail": "See detail",
+            "payment": " The patient can pay the cost in the form of: ",
+            "hide-price": "Hide price list"
+        },
+        "booking-modal":{
+            "title": "Information to book a medical appointment",
+            "fullName": "Fullname",
+            "phoneNumber": "Phone Number",
+            "email": "E-mail ",
+            "address": "Address:",
+            "reason": "Reason for medical examination",
+            "birthday": "Date of birth",
+            "gender": "Gender",
+            "btnConfirm": "Confirm",
+            "btnCancel": "Cancel",
+            "priceBooking": "Free booking",
+            "price":"Price: "
+        }
+    },
+    "admin":{
+        "manage-doctor": {
+            "title":"Create Information Doctor",
+            "select-doctor":"Choose DocTor",
+            "intro": "Introduction Information",
+            "add": "Create Information",
+            "save": "Save Information",
+            "price": "Price",
+            "payment": "payment",
+            "province":"Province",
+            "nameClinic":"Clinic's Name: ",
+            "addressClinic": "Clinic's Address: ",
+            "note": "Note",
+            "specialty": "Specialty",
+            "select-clinic": "Select Clinic"
+        }
+    }
+}

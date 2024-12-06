@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    // font-family: 'Montserrat', sans-serif;
+  }
+  
+  .bofy {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(../../assets/images/Wback.jpg);
+    background-size: cover;
+    .glass-container {
+        width: 350px;
+        height: 400px;
+        position: relative;
+        z-index: 1;
+        background: rgba(255, 255, 255, 0.1);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        border-radius: 10px;
+        border: 1px solid #fff;
+        .login-box{
+            color: #fff !important;
+            margin: 20px !important;
+            .title-login{
+                text-align: center !important;
+            }
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            margin-top: 20px;
+            input {
+                padding: 10px;
+                margin-top: 25px;
+                border: none;
+                border-radius: 10px;
+                background: transparent;
+                border: 1px solid #fff;
+                color: #fff;
+                font-size: 13px;
+              }
+              input::placeholder {
+                color: #fff;
+              }
+              input:focus{
+                outline: none;
+              }
+              .options{
+                display: flex;
+                align-items: center;
+                margin-top: 15px;
+                font-size: 12px;
+                color: #fff;
+                #remember{
+                    margin-right: 5px;
+                    margin-top: 0px;
+                }
+                
+              }
+              .texterr{
+                margin-top: 10px !important;
+              }
+              .btn-login{
+                width: 250px !important;
+                margin-top: 50px;
+                margin: 50px auto !important;
+                text-align: center;
+                height: 40px;
+                border-radius: 20px;
+                border: 1px solid #ddd;
+                outline: none;
+                background: transparent;
+                color: rgb(255, 255, 255);
+                transition: all 0.4s ease-in-out;
+                
+            }
+            .btn-login:hover{
+                background: #ddd;
+                color: #000000;
+                transition: all 0.4s ease;
+            }
+    }
+    }
+  }
+  
+  
